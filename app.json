@@ -17,14 +17,14 @@
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
     },
-      "BOT_TOKEN": "1353038759:AAGJY1gNCMmIPR3f7qElV0tX21JA_yg7ea4"
+      "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "",
+        "value": "1353038759:AAGJY1gNCMmIPR3f7qElV0tX21JA_yg7ea4",
         "required": true
       },
-      "GDRIVE_FOLDER_ID": "1aABwI1JKRCsJ-2y7lH12XFIWH8WqZmsb"
+      "GDRIVE_FOLDER_ID": {
         "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
-        "value": "",
+        "value": "1aABwI1JKRCsJ-2y7lH12XFIWH8WqZmsb",
         "required": true
       },
       "DOWNLOAD_DIR": {
@@ -37,9 +37,9 @@
         "value": "5",
         "required":false
       },
-      "OWNER_ID": "1217568392"
+      "OWNER_ID": {
         "description": "The Telegram user ID (not username) of the owner of the bot.",
-        "value": "",
+        "value": "1217568392",
         "required": true
       },
       "AUTO_DELETE_MESSAGE_DURATION": {
@@ -47,9 +47,9 @@
         "value": "-1",
         "required": false
       },
-      "IS_TEAM_DRIVE": 'True'
+      "IS_TEAM_DRIVE": {
         "description": "Set to 'True' if GDRIVE_FOLDER_ID is from a Team Drive else False or Leave it empty.",
-        "value": "",
+        "value": "True",
         "required": false
       },
       "USE_SERVICE_ACCOUNTS": {
@@ -57,24 +57,24 @@
         "value": "",
         "required": false
       },
-      "INDEX_URL": "https://madara.madara33.workers.dev/0"
+      "INDEX_URL": {
         "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
-        "value": "",
+        "value": "https://madara.madara33.workers.dev/0",
         "required": false
       },
-      "TELEGRAM_API": "2217538"
+      "TELEGRAM_API": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
-        "value": "",
+        "value": "2217538",
         "required": true
       },
-      "TELEGRAM_HASH": "41b3f16c7465fdd307f1c776939e7156"
+      "TELEGRAM_HASH": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
-        "value": "",
+        "value": "41b3f16c7465fdd307f1c776939e7156",
         "required": true
       },
-      "TELEGRAPH_TOKEN": "7612ed1202bb50bd5dd34f9ce726cb08af5d2b0c645b6332f5f98ce018b5"
+      "TELEGRAPH_TOKEN": {
         "description": "Open this link to generate telegraph token ==> https://telegraph-token.sonywegas.repl.run",
-        "value": "",
+        "value": "7612ed1202bb50bd5dd34f9ce726cb08af5d2b0c645b6332f5f98ce018b5",
         "required": false
       },
       "MEGA_API_KEY": {
@@ -92,9 +92,9 @@
         "value": "",
         "required": false
       }
-      "USER_SESSION_STRING": "1AZWarzcBu2nEHVaX2rXmVu_WBCvReXIkfb52Je4fEk-LY2rFQ08LCPxrvl-Ou88PLZ-0VNclKKcJOUO2qZdqdICJbzfZe-e7sKfks1xNTyYNh8gJg6EyC1AxSSO5gEzMKojZ4xyBlG_WFZTo5sq6UG88pSprXsBDE8lBUH-hg_Fg61au1zm5F5aSJG0418yTBlPL8Pwdg63NprCrPionWbkhEM58j_h1CSmtVBuTkysWrEqScYPbY6Lp-PH6Q5w2wGvJt6B757FhYiuWtoic5B9vVo56YIxqAGHgjkA0DV3h6sEptf3efXY8fYvhGoodhnsiMVuTwDBqemH6DY6KfOBbeIcG8jw="
+      "USER_SESSION_STRING": {
         "description": "Open this link to generate session string ==> https://string-session.sonywegas.repl.run",
-        "value": "",
+        "value": "1AZWarzcBu2nEHVaX2rXmVu_WBCvReXIkfb52Je4fEk-LY2rFQ08LCPxrvl-Ou88PLZ-0VNclKKcJOUO2qZdqdICJbzfZe-e7sKfks1xNTyYNh8gJg6EyC1AxSSO5gEzMKojZ4xyBlG_WFZTo5sq6UG88pSprXsBDE8lBUH-hg_Fg61au1zm5F5aSJG0418yTBlPL8Pwdg63NprCrPionWbkhEM58j_h1CSmtVBuTkysWrEqScYPbY6Lp-PH6Q5w2wGvJt6B757FhYiuWtoic5B9vVo56YIxqAGHgjkA0DV3h6sEptf3efXY8fYvhGoodhnsiMVuTwDBqemH6DY6KfOBbeIcG8jw="
         "required": true
       }
     },

@@ -8,7 +8,7 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
+    "repository": "https://github.com/GodMadaraa/mirror-Bot.git",
     "website": "https://t.me/linux_repo",
     "success_url": "https://t.me/linux_repo",
     "stack": "container",
@@ -17,12 +17,12 @@
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
     },
-      "BOT_TOKEN": {
+      "BOT_TOKEN": "1353038759:AAGJY1gNCMmIPR3f7qElV0tX21JA_yg7ea4"
         "description": "The telegram bot token that you get from @BotFather.",
         "value": "",
         "required": true
       },
-      "GDRIVE_FOLDER_ID": {
+      "GDRIVE_FOLDER_ID": "1aABwI1JKRCsJ-2y7lH12XFIWH8WqZmsb"
         "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
         "value": "",
         "required": true
@@ -37,7 +37,7 @@
         "value": "5",
         "required":false
       },
-      "OWNER_ID": {
+      "OWNER_ID": "1217568392"
         "description": "The Telegram user ID (not username) of the owner of the bot.",
         "value": "",
         "required": true
@@ -47,7 +47,7 @@
         "value": "-1",
         "required": false
       },
-      "IS_TEAM_DRIVE": {
+      "IS_TEAM_DRIVE": 'True'
         "description": "Set to 'True' if GDRIVE_FOLDER_ID is from a Team Drive else False or Leave it empty.",
         "value": "",
         "required": false
@@ -57,22 +57,22 @@
         "value": "",
         "required": false
       },
-      "INDEX_URL": {
+      "INDEX_URL": "https://madara.madara33.workers.dev/0"
         "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
         "value": "",
         "required": false
       },
-      "TELEGRAM_API": {
+      "TELEGRAM_API": "2217538"
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
         "value": "",
         "required": true
       },
-      "TELEGRAM_HASH": {
+      "TELEGRAM_HASH": "41b3f16c7465fdd307f1c776939e7156"
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
         "value": "",
         "required": true
       },
-      "TELEGRAPH_TOKEN": {
+      "TELEGRAPH_TOKEN": "7612ed1202bb50bd5dd34f9ce726cb08af5d2b0c645b6332f5f98ce018b5"
         "description": "Open this link to generate telegraph token ==> https://telegraph-token.sonywegas.repl.run",
         "value": "",
         "required": false
@@ -91,8 +91,8 @@
         "description": "Mega Password.",
         "value": "",
         "required": false
-      },
-      "USER_SESSION_STRING": {
+      }
+      "USER_SESSION_STRING": "1AZWarzcBu2nEHVaX2rXmVu_WBCvReXIkfb52Je4fEk-LY2rFQ08LCPxrvl-Ou88PLZ-0VNclKKcJOUO2qZdqdICJbzfZe-e7sKfks1xNTyYNh8gJg6EyC1AxSSO5gEzMKojZ4xyBlG_WFZTo5sq6UG88pSprXsBDE8lBUH-hg_Fg61au1zm5F5aSJG0418yTBlPL8Pwdg63NprCrPionWbkhEM58j_h1CSmtVBuTkysWrEqScYPbY6Lp-PH6Q5w2wGvJt6B757FhYiuWtoic5B9vVo56YIxqAGHgjkA0DV3h6sEptf3efXY8fYvhGoodhnsiMVuTwDBqemH6DY6KfOBbeIcG8jw="
         "description": "Open this link to generate session string ==> https://string-session.sonywegas.repl.run",
         "value": "",
         "required": true

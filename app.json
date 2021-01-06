@@ -94,7 +94,7 @@
       },
       "USER_SESSION_STRING": {
         "description": "Open this link to generate session string ==> https://string-session.sonywegas.repl.run",
-        "value": "1AZWarzcBu2nEHVaX2rXmVu_WBCvReXIkfb52Je4fEk-LY2rFQ08LCPxrvl-Ou88PLZ-0VNclKKcJOUO2qZdqdICJbzfZe-e7sKfks1xNTyYNh8gJg6EyC1AxSSO5gEzMKojZ4xyBlG_WFZTo5sq6UG88pSprXsBDE8lBUH-hg_Fg61au1zm5F5aSJG0418yTBlPL8Pwdg63NprCrPionWbkhEM58j_h1CSmtVBuTkysWrEqScYPbY6Lp-PH6Q5w2wGvJt6B757FhYiuWtoic5B9vVo56YIxqAGHgjkA0DV3h6sEptf3efXY8fYvhGoodhnsiMVuTwDBqemH6DY6KfOBbeIcG8jw="
+        "value": "1AZWarzcBu2nEHVaX2rXmVu_WBCvReXIkfb52Je4fEk-LY2rFQ08LCPxrvl-Ou88PLZ-0VNclKKcJOUO2qZdqdICJbzfZe-e7sKfks1xNTyYNh8gJg6EyC1AxSSO5gEzMKojZ4xyBlG_WFZTo5sq6UG88pSprXsBDE8lBUH-hg_Fg61au1zm5F5aSJG0418yTBlPL8Pwdg63NprCrPionWbkhEM58j_h1CSmtVBuTkysWrEqScYPbY6Lp-PH6Q5w2wGvJt6B757FhYiuWtoic5B9vVo56YIxqAGHgjkA0DV3h6sEptf3efXY8fYvhGoodhnsiMVuTwDBqemH6DY6KfOBbeIcG8jw=",
         "required": true
       }
     },

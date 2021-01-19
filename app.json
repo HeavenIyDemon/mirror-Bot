@@ -24,7 +24,7 @@
       },
       "GDRIVE_FOLDER_ID": {
         "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
-        "value": "1aABwI1JKRCsJ-2y7lH12XFIWH8WqZmsb",
+        "value": "1xHdaBL7j-0uNpwvyGYHNuH5ocr8izhGA",
         "required": true
       },
       "DOWNLOAD_DIR": {
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "The Telegram user ID (not username) of the owner of the bot.",
-        "value": "1217568392",
+        "value": "1518029443",
         "required": true
       },
       "AUTO_DELETE_MESSAGE_DURATION": {
@@ -59,17 +59,17 @@
       },
       "INDEX_URL": {
         "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
-        "value": "https://madara.madara33.workers.dev/0",
+        "value": "https://xd.madaraokay.workers.dev/0:/",
         "required": false
       },
       "TELEGRAM_API": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
-        "value": "2217538",
+        "value": "2272995",
         "required": true
       },
       "TELEGRAM_HASH": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
-        "value": "41b3f16c7465fdd307f1c776939e7156",
+        "value": "2d67bdcc10332fa8cad3a9d7876995da",
         "required": true
       },
       "TELEGRAPH_TOKEN": {
@@ -94,7 +94,7 @@
       },
       "USER_SESSION_STRING": {
         "description": "Open this link to generate session string ==> https://string-session.sonywegas.repl.run",
-        "value": "1AZWarzcBu2nEHVaX2rXmVu_WBCvReXIkfb52Je4fEk-LY2rFQ08LCPxrvl-Ou88PLZ-0VNclKKcJOUO2qZdqdICJbzfZe-e7sKfks1xNTyYNh8gJg6EyC1AxSSO5gEzMKojZ4xyBlG_WFZTo5sq6UG88pSprXsBDE8lBUH-hg_Fg61au1zm5F5aSJG0418yTBlPL8Pwdg63NprCrPionWbkhEM58j_h1CSmtVBuTkysWrEqScYPbY6Lp-PH6Q5w2wGvJt6B757FhYiuWtoic5B9vVo56YIxqAGHgjkA0DV3h6sEptf3efXY8fYvhGoodhnsiMVuTwDBqemH6DY6KfOBbeIcG8jw=",
+        "value": "1BVtsOIwBu3mNtp1oYSWJxMyd0U-qzdD983uN2lPDt0iFbxNEpR3lPm-FqkQ0J_PIhQfsDqne1MV-C9Bf_wb1SjYYjv4PZ10UH662rpN5AoxIzOREujo1y6tQUZjkFilqRayjazZ5oKPBXERFYQmaHHK_5bkIwqghOQzDjTcSaKvuYF5WOqslvmzEOTjcf1cDrzbG1swBDTb7f0kpDPIn34jwPrVlFHn01v1AqFNUPOOskwHFd4irhc-Fp3lRBeinuNHAT5kkTecPKSqw5y_jdA1ejqJ5elZAU7dm2G89Vhm4tha6xQvPpQo6yvy_ieeKVJoaZDcingPm48CT-8Nf2Ro-F-SLC5k=",
         "required": true
       }
     },

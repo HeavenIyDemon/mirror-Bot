@@ -19,7 +19,7 @@
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "1645002090:AAGrbAlG33vPDzDcThE5Wh9fldTdy-3Tv5w",
+        "value": "1609225490:AAF8IM0LAerpTsl1X5Ebxc7ceUpa9U-4rDA",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "The Telegram user ID (not username) of the owner of the bot.",
-        "value": "1675835645",
+        "value": "1528285120",
         "required": true
       },
       "AUTO_DELETE_MESSAGE_DURATION": {
@@ -64,12 +64,12 @@
       },
       "TELEGRAM_API": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
-        "value": "2901399",
+        "value": "3975836",
         "required": true
       },
       "TELEGRAM_HASH": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
-        "value": "d587f02606182f8347d40108695aef72",
+        "value": "ef9798d15a58c54f730e92b665ae2030",
         "required": true
       },
       "TELEGRAPH_TOKEN": {
@@ -94,7 +94,7 @@
       },
       "USER_SESSION_STRING": {
         "description": "Open this link to generate session string ==> https://string-session.sonywegas.repl.run",
-        "value": "1AZWarzYBu742fNxQWs5zeWVmU_hfIZbtNXOCE-97rbqJg8b9ABLYzfy-7kVCljjZ8sUrNWhrLXf9EFXmrATsyuuBpdMmFhDbxhcufFnJfyTGgb-VjDkAtlBSZkGcf9lk9wphtBeITmP-Sxmn6HVHxCP_dR0t0nOntB-IxEP7cWPHih8ivX9URdzS_KB1Dq8DwAoU-or-wSMbSi5U5r3R0yo6pgQ8DC_vReUugie4M_GqaxLzeuEEeijiuBLTFL8YzO7bWcJlYGFtP2Jg-j3pKAyFpLXO_0ZHSNju0YAuSCvd1HZ0lpiCGWG53xmpWIYoses8bjFBfngShVZlTJEvyNrrLDD9LXg=",
+        "value": "1BVtsOLEBu7qAcPRHJD4c7q0eTSdpnA-xSMGFXbDRWCZ_oObpzMwS2mSHkiytYnEmtqEAORN04pCfhANngHrx1uWwEfXXj-C3mfbDTa9tq22-3eunc_szZSVRwDwqMAHh73JGVD567mY5uIdb9gozX_hLGlJCW6JDw_9ydeeNP1GJKht8iUdBPNnNqEaleKEht_58cKz-qa-wWsTE-pudaK89OjMZRXlLw4OYrB8rjyg6CcJBg4PpIV7s41eBjupSxc2ZHHskqzfSar9CtfSVyO0apxEmxTE8GIc6Gnnhh-Yu71T_SOlsHnBvLpjPRW6P-OgXYm2DHq4ue6T5BkL5_Oqk0tOx1T4=",
         "required": true
       }
     },

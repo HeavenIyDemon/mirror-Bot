@@ -59,7 +59,7 @@
       },
       "INDEX_URL": {
         "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
-        "value": "",
+        "value": "https://sin.escanor.workers.dev",
         "required": false
       },
       "TELEGRAM_API": {

@@ -8,7 +8,7 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/GodMadaraa/mirror-Bot.git",
+    "repository": "https://github.com/HeavenIyDemon/mirror-Bot",
     "website": "https://t.me/linux_repo",
     "success_url": "https://t.me/linux_repo",
     "stack": "container",
@@ -19,12 +19,12 @@
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "1609225490:AAF8IM0LAerpTsl1X5Ebxc7ceUpa9U-4rDA",
+        "value": "1644666751:AAFemDAPBcNUaXRQFM75yR-Dd3C6lvkIczA",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
         "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
-        "value": "1xHdaBL7j-0uNpwvyGYHNuH5ocr8izhGA",
+        "value": "1-0kBza-tfYGvIKxaoQ9Ls2qFvLXJ3U3v",
         "required": true
       },
       "DOWNLOAD_DIR": {
@@ -59,7 +59,7 @@
       },
       "INDEX_URL": {
         "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
-        "value": "https://xd.madaraokay.workers.dev",
+        "value": "",
         "required": false
       },
       "TELEGRAM_API": {
